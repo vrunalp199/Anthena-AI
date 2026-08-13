@@ -208,7 +208,7 @@ Generated Response
 
 Current target knowledge base:
 
-95+ GB Cybersecurity Data
+50+ GB Cybersecurity Data
 
 Sources:
 
